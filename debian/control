@@ -12,4 +12,4 @@ XBSC-Group: DisplayCore
 XBSC-Subgroup: Fonts
 Depends: libdisplaycore-core
 Provides: SUN12x22.h
-Description: 
+Description: SUN12x22 font for DisplayCore
