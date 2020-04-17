@@ -1,2 +1,4 @@
-SUN12x22.cpp libraries/DisplayCore/SUN12x22
-SUN12x22.h libraries/DisplayCore/SUN12x22
+library.json libraries/DisplayCore/SUN12x22
+library.properties libraries/DisplayCore/SUN12x22
+README.md libraries/DisplayCore/SUN12x22
+src libraries/DisplayCore/SUN12x22
